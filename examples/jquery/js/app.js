@@ -18,7 +18,6 @@ jQuery(function($) {
 
 	var util = {
 		uuid: function() {
-			/*jshint bitwise:false */
 			var i, random;
 			var uuid = '';
 
