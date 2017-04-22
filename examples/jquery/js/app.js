@@ -1,4 +1,4 @@
-// This challenge inspired me to try and reorganize the whole app. I followed Gordon's Practical JS app organization. I tried to avoid changing the single methods, my focus was on rearranging the methods, separating the 'view' object from the 'data' object connecting them through the 'logic' object.
+/* This challenge inspired me to try and reorganize the whole app. I followed Gordon's Practical JS app organization. I tried to avoid changing the single methods, my focus was on rearranging the methods, separating the 'view' object from the 'data' object connecting them through the 'logic' object */
 
 jQuery(function($) {
     'use strict';
