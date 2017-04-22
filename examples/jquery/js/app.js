@@ -142,7 +142,6 @@ jQuery(function($) {
 /* ======= Controller ======= */
 
     var controller = {
-
         init: function() {
             model.todos = model.store('todos-jquery');
 
